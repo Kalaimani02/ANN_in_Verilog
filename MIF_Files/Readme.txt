@@ -1,1 +1,1 @@
-This folder contains the Weights, Bias files
+This folder contains the Weights, Bias and Sigmoid contentfiles
